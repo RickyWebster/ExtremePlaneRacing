@@ -1,2 +1,2 @@
-# SpaceShooterGame-8DIT
-Multiplayer Space shooter
+# ExtremePlaneRacing
+Plane racing game
