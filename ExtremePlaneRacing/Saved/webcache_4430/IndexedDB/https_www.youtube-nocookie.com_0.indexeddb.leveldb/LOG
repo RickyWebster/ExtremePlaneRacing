@@ -1,0 +1,8 @@
+2024/08/22-20:49:50.994 4270 Reusing MANIFEST C:/Users/ricky/OneDrive/Desktop/DIT_Projects/ExtremePlaneSimulator/ExtremePlaneRacing/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/22-20:49:50.994 4270 Recovering log #4
+2024/08/22-20:49:50.995 4270 Reusing old log C:/Users/ricky/OneDrive/Desktop/DIT_Projects/ExtremePlaneSimulator/ExtremePlaneRacing/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/08/22-21:01:20.934 6ac Level-0 table #8: started
+2024/08/22-21:01:20.934 6ac Level-0 table #8: 0 bytes OK
+2024/08/22-21:01:20.936 6ac Delete type=0 #4
+2024/08/22-21:01:20.936 6ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/22-21:01:20.936 6ac Manual compaction at level-1 from (begin) .. (end); will stop at (end)
